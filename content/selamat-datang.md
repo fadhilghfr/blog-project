@@ -1,7 +1,6 @@
 +++
 Description = "Ini adalah post pertama pada halaman ini."
 date = 2020-09-28T17:00:00Z
-draft = true
 title = "Selamat Datang!"
 
 +++
