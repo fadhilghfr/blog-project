@@ -12,4 +12,5 @@ fields:
   name: Description
   label: Description
 pages:
+- content/post/selamat-datang.md
 - content/selamat-datang.md
